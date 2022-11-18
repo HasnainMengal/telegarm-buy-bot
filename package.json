@@ -1,0 +1,25 @@
+{
+  "name": "telegarm_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/abi": "^5.7.0",
+    "@moralisweb3/evm-utils": "^2.7.0",
+    "abi-decoder": "^2.4.0",
+    "axios": "^1.1.2",
+    "ethers": "^5.7.1",
+    "http": "^0.0.1-security",
+    "moralis": "^2.7.0",
+    "moralis-v1": "^1.11.0",
+    "net": "^1.0.2",
+    "node-telegram-bot-api": "^0.59.0",
+    "simple-json-db": "^2.0.0",
+    "web3": "^1.8.1"
+  }
+}
