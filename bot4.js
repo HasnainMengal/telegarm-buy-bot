@@ -333,7 +333,7 @@ function save_img(token, _Group_id, _file, _Type) {
 async function main() {
   try{
   const rpc = new ethers.providers.WebSocketProvider(
-   "wss://lively-responsive-silence.bsc.discover.quiknode.pro/dbeaba09b6c24a9adde788d2b68c4eb9218a1a9e/"
+   "wss://ws-nd-970-388-099.p2pify.com/7f030c55b646100b7ef66e5d1a54313e"
    );
 
   let urls = ["https://bscrpc.com","https://bsc-dataseed1.binance.org/","https://bsc-dataseed2.binance.org/",
